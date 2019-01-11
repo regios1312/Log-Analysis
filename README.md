@@ -1,7 +1,4 @@
 
-Start your virtua machine using vagrant ssh command after entering the path Desktop/fullstack-nanodegree-vm/vagrant
-The code execution is done in /vagrant shared folder using command:
-python project.py
 -----------------------------------------------------
 There are a total of 3 views created in this project:
 
